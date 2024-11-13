@@ -1,6 +1,6 @@
-# Simple Todo App
+# The Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+This is a simple Todo list where users can add todo's, dates they need to be completed by and check them off as they complete them.
 
 ## Functionality
 
